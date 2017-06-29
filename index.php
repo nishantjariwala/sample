@@ -3,5 +3,5 @@
 $newURL = "https://app.frontuser.com/dashboard/register";
 header('Location: '.$newURL);
 echo phpinfo();
-// committed
+// committed page
 ?>
